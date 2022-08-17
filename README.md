@@ -20,7 +20,7 @@ So this game lets the user make decisions and depending on what they've chosen, 
 * Opening Page:
 <img width="528" alt="opening page" src="https://user-images.githubusercontent.com/103064401/185042143-5f581b66-670b-4b19-bb73-41399697c974.png">
 
-* Wining Shot
+* Winning Shot
 <img width="797" alt="winning_shot" src="https://user-images.githubusercontent.com/103064401/185042368-9f4ad846-c17d-4a7c-ab1c-7cd7afdd645f.png">
 
 * Game Over Shot
